@@ -1,2 +1,2 @@
 # rock-paper-scissors
-This is a RPS game with HTML,CSS and JS
+This is anRPS game with HTML,CSS and JS
